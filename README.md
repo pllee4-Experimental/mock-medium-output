@@ -1,1 +1,0 @@
-# Mock Medium Output
